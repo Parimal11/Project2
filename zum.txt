@@ -1,0 +1,15 @@
+Zumba –JSP with MYSQL 
+Users , Admin 
+
+Admin 
+Login – create a table and hardcode the admin username and password in it 
+They can add the trainer schedule in the dB 
+Trainer id , name , slot date and time ,number of max slots (30) 
+	View , edit ,delete 
+Student info add, delete ,update , view - how registered for the trainer 
+
+User 
+Registration (name,phno,emailid,gender)
+Login 
+Register for the zumba slot with the trainer 
+View the info of the trainer and the slot details in table 
