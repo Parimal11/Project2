@@ -1,0 +1,58 @@
+Sprint 1: Initial Setup and User Registration
+Duration: 2 weeks
+Goals:
+Establish the foundational architecture of the Zumba portal.
+Implement user registration functionality.
+Key Deliverables:
+User Registration Module:
+Create a registration form for new users.
+Implement backend logic to handle user data storage.
+Validate user input (e.g., email format, password strength).
+Database Setup:
+Design and implement the database schema for users, including necessary fields (e.g., user ID, name, email, password, etc.).
+Create a users table in the database.
+User Interface:
+Develop a user-friendly interface for the registration page.
+Ensure responsive design for mobile and desktop views.
+Testing:
+Conduct unit tests for the registration module.
+Perform integration testing to ensure the registration process works end-to-end.
+Tasks:
+Task 1: Design database schema for user registration.
+Task 2: Develop the registration form (frontend).
+Task 3: Implement backend logic for user registration (UserDAO).
+Task 4: Create validation rules for user input.
+Task 5: Write unit tests for the registration functionality.
+Retrospective:
+Review what went well and what could be improved.
+Gather feedback from team members on the registration process.
+Sprint 2: Class Scheduling and Trainer Interaction
+Duration: 2 weeks
+Goals:
+Implement class scheduling functionality.
+Enable interaction between users and trainers.
+Key Deliverables:
+Class Scheduling Module:
+Allow users to view available Zumba classes.
+Implement functionality for users to register for specific classes.
+Create a database table for class schedules.
+Trainer Interaction:
+Develop a feature for users to view trainer profiles.
+Allow users to send messages or inquiries to trainers.
+User Dashboard:
+Create a dashboard for users to manage their registrations and view upcoming classes.
+Implement a notification system for class reminders.
+Testing:
+Conduct user acceptance testing (UAT) for the class scheduling and trainer interaction features.
+Ensure all functionalities are working as intended.
+Tasks:
+Task 1: Design and implement the class schedule database table.
+Task 2: Develop the frontend for viewing and registering for classes.
+Task 3: Implement backend logic for class registration (RegistrationUserDAO).
+Task 4: Create trainer profile pages and messaging functionality.
+Task 5: Write tests for the class scheduling and trainer interaction features.
+Retrospective:
+Discuss the successes and challenges faced during the sprint.
+Collect feedback on the user experience of the new features.
+Conclusion
+This Agile documentation outlines the objectives, deliverables, and tasks for the first two sprints of the Zumba portal project. By following this structured approach, the team can ensure that they remain focused on delivering valuable features while continuously improving the development process. Regular retrospectives will help the team adapt and refine their approach for future sprints.
